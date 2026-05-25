@@ -25,19 +25,35 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 Caio
 
-### Exemplo 1
+### Tasking
 
-Projeto exemplo para teste aqui é a descrição.
+Gerenciador de tarefas estilo Kanban, inspirado no Trello, focado em organização e produtividade, feito apenas o front com React, JS, Tailwind e dnd-kit, salvo os dados no local storage do navegador.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/CaioSouza07/tasking-web)
 
 _
 
-### Exemplo 2
+### Lista de Compras
 
-Projeto exemplo para teste aqui é a descrição.
+Exercício 1 da trilha de React, lista de comprar simples, para organizar as comprar pendentes e concluídas, utilizando os conceitos de useEffect e useState do React.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/CaioSouza07/lista-compras-web)
+
+_
+
+### Notas Pessoais
+
+Exercício 2 da trilha, gerenciador de notas pessoais, para organizar lembretes e tarefas simples, utilizando os conceitos de useEffect, useState, useReducer e useCallback, criação de hooks customizáveis também (useLocalStorage, useFetch e useDebounce).
+
+Link: [Repositório do Projeto](https://github.com/CaioSouza07/notas-pessoais-web)
+
+_
+
+### E-commerce Básico
+
+Exercício 3 da trilha, e-commerce com produtos estáticos, apenas para utilizar carrinho de compras e autenticação de usuários, utiliza conceitos de Context API.
+
+Link: [Repositório do Projeto](https://github.com/CaioSouza07/e-commerce-web)
 
 ---
 
