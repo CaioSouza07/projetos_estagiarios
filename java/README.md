@@ -25,19 +25,35 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 Caio
 
-### Exemplo 1
+### TaskManager
 
-Projeto exemplo para teste aqui é a descrição.
+Aplicação Java JDBC para gerenciamento de tarefas, conexão com PostgreSQL.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/CaioSouza07/task-manager-jdbc)
 
 _
 
-### Exemplo 2
+### SmartRH
 
-Projeto exemplo para teste aqui é a descrição.
+Aplicação Java JDBC para sistema de RH, cadastro de funcionários e cálculo de salário, conexão com PostgreSQL.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/CaioSouza07/smart-rh-jdbc)
+
+_
+
+### BookFlow
+
+Aplicação Java com Hibernate puro, para sistema de biblioteca, cadastro de livros e clientes e empréstimos de livros, conexão com banco PostgreSQL.
+
+Link: [Repositório do Projeto](https://github.com/CaioSouza07/book-flow-jpa)
+
+_
+
+### BioGreen API
+
+API Rest desenvolvida com Java e Spring Boot para gestão ambiental, com autenticação stateless (Spring Security e token JWT), integração com APIs externas e Spring Data JPA.
+
+Link: [Repositório do Projeto](https://github.com/CaioSouza07/biogreen-api)
 
 ---
 
