@@ -149,19 +149,27 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 Kauê
 
-### Exemplo 1
+### Gerenciador de Produtos - Semana 1 da Trilha
 
-Projeto exemplo para teste aqui é a descrição.
+Projeto desenvolvido com React (Vite) + TailwindCSS com o objetivo de praticar mais conceitos fundamentais de front-end.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/KaueDylon/curso-react-semana1)
 
 _
 
-### Exemplo 2
+### Gerenciador de Tarefas - Semana 2 da Trilha
 
-Projeto exemplo para teste aqui é a descrição.
+Projeto desenvolvido com React (Vite) + TailwindCSS + JSON Server com o objetivo de praticar conceitos fundamentais de front-end, como componentização, gerenciamento de estado e consumo de API.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/KaueDylon/curso-react-semana2)
+
+_
+
+### E-Commerce (Compraki) - Semana 3 da Trilha
+
+Projeto desenvolvido com React (Vite) + CSS + JSON Server Auth com o objetivo de praticar mais conceitos fundamentais de front-end, como componentização, gerenciamento de estado, sessão e consumo de API mockada.
+
+Link: [Repositório do Projeto](https://github.com/KaueDylon/curso-react-semana3)
 
 ---
 
