@@ -125,19 +125,19 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 Kauê
 
-### Exemplo 1
+### ContactAPI - Semana 3 da Trilha
 
-Projeto exemplo para teste aqui é a descrição.
+API RESTful desenvolvida em PHP puro utilizando arquitetura em camadas (Controller, Service, Repository, Model) e gerenciamento de dependências com Composer.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/KaueDylon/curso-PhP-semana3)
 
 _
 
-### Exemplo 2
+### Lista Pessoal PhP
 
-Projeto exemplo para teste aqui é a descrição.
+Projeto em CLI de gerenciamento de usuários desenvolvido em PHP utilizando programação orientada a objetos (POO).
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/KaueDylon/ListaPessoalPhP)
 
 ---
 
