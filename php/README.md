@@ -25,19 +25,11 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 Caio
 
-### Exemplo 1
+### Carrinho de Compras
 
-Projeto exemplo para teste aqui é a descrição.
+Carrinho de compras usando php e orientação a objetos, simples com crud de produtos e itens pro carrinho, utilizando conexão com banco de dados PostgreSQL
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
-
-_
-
-### Exemplo 2
-
-Projeto exemplo para teste aqui é a descrição.
-
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/CaioSouza07/carrinho-compras-php-pdo)
 
 ---
 
