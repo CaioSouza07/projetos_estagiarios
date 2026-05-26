@@ -95,19 +95,19 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 Jhonatan
 
-### Exemplo 1
+### PayMaster
 
-Projeto exemplo para teste aqui é a descrição.
+Sistema de banco feito em Java para transferências entre carteiras e CRUD de usuários. JDBC integrado com PostgreSQL.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/jhowzluk/PayMaster)
 
 _
 
-### Exemplo 2
+### Garage Tracker API
 
-Projeto exemplo para teste aqui é a descrição.
+API REST desenvolvida com Spring Boot para a gestão e rastreamento de veículos de usuários, construída com foco em relacionamentos estruturados de banco de dados, segurança e tratamento padronizado de exceções.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/jhowzluk/garagetracker-api)
 
 ---
 
