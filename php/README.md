@@ -31,6 +31,14 @@ Carrinho de compras usando php e orientação a objetos, simples com crud de pro
 
 Link: [Repositório do Projeto](https://github.com/CaioSouza07/carrinho-compras-php-pdo)
 
+_
+
+### RecipeHub
+
+API Rest de receitas simples, apenas para CRUD de receitas, categorias e ingredientes, utiliza conexão com banco PostgreSQL.
+
+Link: [Repositório do Projeto](https://github.com/CaioSouza07/recipehub-api)
+
 ---
 
 ## 👤 Gabriel
