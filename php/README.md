@@ -33,11 +33,17 @@ Link: [Repositório do Projeto](https://github.com/CaioSouza07/carrinho-compras-
 
 _
 
-### RecipeHub
+### RecipeHub API
 
 API Rest de receitas simples, apenas para CRUD de receitas, categorias e ingredientes, utiliza conexão com banco PostgreSQL.
 
 Link: [Repositório do Projeto](https://github.com/CaioSouza07/recipehub-api)
+
+### Contact API
+
+API Rest de lista de contato, com Symfony e Doctrine, utiliza conexão com banco PostgreSQL.
+
+Link: [Repositório do Projeto](https://github.com/CaioSouza07/contact-api)
 
 ---
 
