@@ -39,6 +39,8 @@ API Rest de receitas simples, apenas para CRUD de receitas, categorias e ingredi
 
 Link: [Repositório do Projeto](https://github.com/CaioSouza07/recipehub-api)
 
+_
+
 ### Contact API
 
 API Rest de lista de contato, com Symfony e Doctrine, utiliza conexão com banco PostgreSQL.
