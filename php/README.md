@@ -155,6 +155,13 @@ Projeto em CLI de gerenciamento de usuários desenvolvido em PHP utilizando prog
 
 Link: [Repositório do Projeto](https://github.com/KaueDylon/ListaPessoalPhP)
 
+_
+
+### To-Do-It API - Semana 4 da Trilha
+
+API RESTful com PDO e POO de gerenciamento de tarefas com CRUD, fazendo uso de LOGS e testes com PhPUnit
+
+Link: [Repositório do Projeto](https://github.com/KaueDylon/curso-PhP-semana4)
 ---
 
 ## 👤 Luisa
