@@ -7,19 +7,25 @@
 
 ## 👤 Ana
 
-### Exemplo 1
+### Gerenciamento de Tarefas
+Projeto sobre gerenciamento de tarefas onde utilizei POO, JDBC, e o h2 database.
 
-Projeto exemplo para teste aqui é a descrição.
+Link de acesso: https://github.com/Ana-Soares-Vicente/Tarefas-com-Banco-de-Dados.git
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+_
+ 
+### Personagens
+Um CRUD feito em Java para cadastro de personagens de RPG. Utilizei POO, JDBC, e o h2 database // Similar ao gerenciador de tarefas.
+
+Link de acesso: https://github.com/Ana-Soares-Vicente/Personagens-com-Banco-de-Dados.git
 
 _
 
-### Exemplo 2
 
-Projeto exemplo para teste aqui é a descrição.
+### Filmes
+API de Filmes (usuários, filmes e avaliações). Permite cadastrar usuários, adicionar filmes e registrar avaliações, calculando a média de notas por filme. Projeto feito com Spring Boot (JPA, H2, Maven).
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link de Acesso: https://github.com/Ana-Soares-Vicente/P1_Filmes
 
 ---
 
