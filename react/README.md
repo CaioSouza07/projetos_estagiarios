@@ -7,19 +7,17 @@
 
 ## 👤 Ana
 
-### Exemplo 1
-
-Projeto exemplo para teste aqui é a descrição.
-
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
-
-_
-
-### Exemplo 2
-
-Projeto exemplo para teste aqui é a descrição.
-
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+### Primeira semana da trilha de React
+Um formulário para adicionar, filtrar e remover itens da lista de compra. Possui um filtro com pendentes e concluídos. Feito com Vite + React, e css.
+Link de Acesso: https://github.com/Ana-Soares-Vicente/listaDeCompras
+ 
+### Segunda semana da trilha de React
+Uma aplicação para adicionar, pesquisar e remover notas pessoais. Possui a funcionalidade de marcar as notas como concluídas e um campo de busca! Feito com Vite + React e CSS.
+Link de Acesso: https://github.com/Ana-Soares-Vicente/notasPessoais
+ 
+### Terceira semana da trilha de React
+Aplicação de e-commerce de uma cafeteria, com carrinho de compras, autenticação de usuário e suporte a tema claro/escuro. Feito em vite + react, css e utiliza context api.
+Link de Acesso: https://github.com/Ana-Soares-Vicente/E-Commerce-Trilha
 
 ---
 
