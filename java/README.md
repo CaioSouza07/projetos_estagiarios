@@ -167,16 +167,14 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 Luisa
 
-### Exemplo 1
+### Biblioteca Digital
 
-Projeto exemplo para teste aqui é a descrição.
+Sistema de biblioteca digital desenvolvido em Java com Spring Boot, que 
+permite gerenciar livros (físicos e e-books), usuários e empréstimos via 
+interface de terminal. Inclui controle de disponibilidade, prazos de devolução e
+identificação de atrasos, com persistência em banco de dados usando JPA/
+Hibernate.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: https://github.com/luisacavagnollo/biblioteca-digital.git
 
 _
-
-### Exemplo 2
-
-Projeto exemplo para teste aqui é a descrição.
-
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
