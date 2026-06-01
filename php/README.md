@@ -131,6 +131,16 @@ Link: [Repositório do Projeto](https://github.com/joaofsdev/trilha-php/tree/mai
 
 _
 
+### Projeto Final - Semana 4 Trilha PHP
+
+Aplicação REST em PHP para gerenciar tarefas (CRUD) com camadas Model / Repository / Service.
+Inclui enumerações de prioridade e status, tratamento de exceções e respostas JSON.
+Testes com PHPUnit, dependências via Composer e entrypoint em index.php.
+
+Link: [Repositório do Projeto](https://github.com/joaofsdev/trilha-php/tree/main/projetoFinal)
+
+_
+
 ### Garagem de Customização
 
 API RESTful desenvolvida em PHP puro para gerenciamento de veículos e modificações, utilizando arquitetura em camadas com Controllers, Models e Router, além de gerenciamento de dependências com Composer.
