@@ -95,11 +95,11 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 Jhonatan
 
-### Exemplo 1
+### Shopping List
 
-Projeto exemplo para teste aqui é a descrição.
+Atividade da semana 1, lista de compras simples organizada em lista, utilizando useState, map, filter e props.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/jhowzluk/shopping-list)
 
 _
 
