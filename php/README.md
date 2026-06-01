@@ -123,19 +123,19 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 João Francisco
 
-### Exemplo 1
+### Contact API - Semana 3 Trilha PHP
 
-Projeto exemplo para teste aqui é a descrição.
+API RESTful desenvolvida em PHP puro, com arquitetura em camadas (Controller, Model, Config e Helpers), persistência de dados com PDO, validação de entradas, respostas padronizadas em JSON e gerenciamento de dependências via Composer para operações CRUD de contatos com paginação.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/joaofsdev/trilha-php/tree/main/apiRest)
 
 _
 
-### Exemplo 2
+### Garagem de Customização
 
-Projeto exemplo para teste aqui é a descrição.
+API RESTful desenvolvida em PHP puro para gerenciamento de veículos e modificações, utilizando arquitetura em camadas com Controllers, Models e Router, além de gerenciamento de dependências com Composer.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/joaofsdev/garagem-customizacao)
 
 ---
 
