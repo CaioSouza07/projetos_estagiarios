@@ -101,11 +101,11 @@ Link: [Repositório do Projeto](https://github.com/jhowzluk/shopping-list)
 
 _
 
-### Exemplo 2
+### Personal Notes
 
-Projeto exemplo para teste aqui é a descrição.
+Atividade da semana 2, aplicação de notas pessoais usando useReduce para CRUD, custom hooks e JSON Server.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/jhowzluk/personal-notes)
 
 ---
 
