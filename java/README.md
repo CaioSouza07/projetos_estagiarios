@@ -137,11 +137,11 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 João Francisco
 
-### Exemplo 1
+### Loja Assincrona - Arquitetura Orientada a Eventos
 
-Projeto exemplo para teste aqui é a descrição.
+Aplicação backend desenvolvida em Spring Boot que implementa um sistema de e-commerce com arquitetura orientada a eventos. A aplicação utiliza processamento assíncrono para orquestrar fluxos complexos de negócio envolvendo criação de pedidos, processamento de pagamentos e gerenciamento de estoque.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/joaofsdev/loja-assincrona)
 
 _
 
