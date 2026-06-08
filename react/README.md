@@ -107,6 +107,12 @@ Atividade da semana 2, aplicação de notas pessoais usando useReduce para CRUD,
 
 Link: [Repositório do Projeto](https://github.com/jhowzluk/personal-notes)
 
+### DevStore (E-commerce)
+
+Atividade da semana 3, aplicação de e-commerce usando rotas, autenticação e dark theme com Context API, e uma API mock.
+
+Link: [Repositório do Projeto](https://github.com/jhowzluk/dev-store)
+
 ---
 
 ## 👤 João Périco
