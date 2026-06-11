@@ -57,19 +57,35 @@ Link: [Repositório do Projeto](https://github.com/CaioSouza07/e-commerce-web)
 
 ## 👤 Gabriel
 
-### Exemplo 1
+### Projeto Lista de Compras - Semana 1
 
-Projeto exemplo para teste aqui é a descrição.
+Aplicação para adicionar, remover e filtrar itens com contador de pendentes. Desenvolvida com React e hooks.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/projeto-lista-compras-react)
 
 _
 
-### Exemplo 2
+### Projeto Notas Pessoais - Semana 2
 
-Projeto exemplo para teste aqui é a descrição.
+Aplicação para criar, remover e buscar notas, consumindo uma API mock via JSON Server com fetch e useEffect.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/projeto-notas)
+
+_
+
+### Projeto Loja Virtual - Semana 3
+
+Loja virtual com Context API (Auth, Cart, Theme), React Router, rotas protegidas e consumo de API externa.
+
+Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/projeto-ecommerce-react)
+
+_
+
+### Projeto Kanban - Semana 4
+
+Aplicação Kanban com drag and drop, hooks customizados, Context API, Reducer, persistência via localStorage e testes unitários.
+
+Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/projeto-kanban-react)
 
 ---
 
