@@ -65,11 +65,11 @@ Link: [Repositório do Projeto](https://github.com/CaioSouza07/biogreen-api)
 
 ## 👤 Gabriel
 
-### Exemplo 1
+### RPG baseado em turnos
 
-Projeto exemplo para teste aqui é a descrição.
+Projeto de um RPG de turnos / sistema de combate criado usando os fundamentos de POO, JDBC e utilizando o banco H2
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/ProjetoRPG)
 
 _
 
