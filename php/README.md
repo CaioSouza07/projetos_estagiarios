@@ -51,11 +51,11 @@ Link: [Repositório do Projeto](https://github.com/CaioSouza07/contact-api)
 
 ## 👤 Gabriel
 
-### Exemplo 1
+### Exercícios Semanais PHP
 
-Projeto exemplo para teste aqui é a descrição.
+Exercícios semanais de PHP feitos durante o curso. Aborda arrays, OOP, Enums, PDO, API REST com CRUD e arquitetura em camadas (Controller → Service → Repository).
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/projeto-php-exercicios)
 
 _
 
