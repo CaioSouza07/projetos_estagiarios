@@ -83,19 +83,29 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 Guilherme
 
-### Exemplo 1
+### Projeto 1 – Contratos de Show Musicais
 
-Projeto exemplo para teste aqui é a descrição.
+Emissor de contratos de show para artistas musicais, treinando conceitos de interface e polimorfismo.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/Projeto_ShowArtistasMusicais.git)
 
-_
+### Projeto 2 – Fábrica de Veículos
 
-### Exemplo 2
+Sistema de pintura e montagem de veículos, com armazenamento em banco de dados (h2). 
 
-Projeto exemplo para teste aqui é a descrição.
+Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/ProjetoProducaoFabrica.git)
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+### Projeto 3 – Boletim Acadêmico
+
+Sistema que simula cadastro, matrícula, e lançamento de notas acadêmicas. Possui emissão de boletim via console e conexão com Banco de dados (PostgreSQL).
+
+Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/SistemaBoletim.git)
+
+### Projeto 4 – Biblioteca API
+
+API de Biblioteca( autores, livros, clientes e  Sistema de Empréstimo). Organiza empréstimo por meio de status e possui verificação de dados inválidos/duplicados. Projeto feito com Spring Boot (JPA, Lombok, PostgreSQL).
+
+Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/BibliotecaAPI.git)
 
 ---
 
