@@ -91,19 +91,25 @@ Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/projeto-kanba
 
 ## 👤 Guilherme
 
-### Exemplo 1
+###  Projeto 1 – Lista de Produtos
 
-Projeto exemplo para teste aqui é a descrição.
+Lista de Produtos - Conta com Inserção, remoção de itens e dados numéricos da lista. Feito com React, Tailwind e Vite.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/lista-produtos-react.git)
 
 _
 
-### Exemplo 2
+### Projeto 2 – Aplicativo de Notas
 
-Projeto exemplo para teste aqui é a descrição.
+Notas - Conta com inserção, listagem, remoção e atualização das notas. Integrado com json-server e armazenamento local no navegador.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/notas-pessoais-react.git)
+
+### Projeto 3 – E-commerce básico
+
+Aplicação de e-commerce básica com React Router (Homepage, Produtos, Detalhe, Carrinho, Login), AuthContext para autenticação, ThemeContext para dark mode, serviço de API centralizado, e rota protegida para o carrinho.
+
+Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/e-commerce-react.git)
 
 ---
 
