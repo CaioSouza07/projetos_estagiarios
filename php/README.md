@@ -83,9 +83,9 @@ API REST completa de gerenciamento de contatos: CRUD com PDO e prepared statemen
 
 Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/GerenciaContatos-PHP.git)
 
--
+_
 
-### Gerência de Contatos
+### Gerência de Tarefas
 
 API REST para gerenciamento de tarefas, com arquitetura em camadas, uso de enums para Prioridade e Status, validação via exceptions, dependências com composer e testes automatizados com PHPUnit. Com o objetivo de consolidar os conceitos aprendidos de Php.
 
