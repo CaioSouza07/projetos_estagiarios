@@ -69,19 +69,27 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 Guilherme
 
-### Exemplo 1
+### Carrinho de Compras
 
-Projeto exemplo para teste aqui é a descrição.
+Sistema de carrinho de compras com: classe Produto (nome, preço, estoque), classe Carrinho (adicionar, remover, calcular total com desconto), Enum FormaPagamento (Pix, Cartão, Boleto) com desconto diferenciado, e tratamento de exceções para estoque insuficiente.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/CarrinhoCompras-Php.git)
 
 _
 
-### Exemplo 2
+### Gerência de Contatos
 
-Projeto exemplo para teste aqui é a descrição.
+API REST completa de gerenciamento de contatos: CRUD com PDO e prepared statements, validação de e-mail e telefone, paginação na listagem, e respostas JSON padronizadas com códigos HTTP.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/GerenciaContatos-PHP.git)
+
+-
+
+### Gerência de Contatos
+
+API REST para gerenciamento de tarefas, com arquitetura em camadas, uso de enums para Prioridade e Status, validação via exceptions, dependências com composer e testes automatizados com PHPUnit. Com o objetivo de consolidar os conceitos aprendidos de Php.
+
+Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/ToDoAPI-PHP.git)
 
 ---
 
