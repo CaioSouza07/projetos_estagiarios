@@ -87,11 +87,11 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ## 👤 Jhonatan
 
-### Exemplo 1
+### Shopping Cart
 
-Projeto exemplo para teste aqui é a descrição.
+Carrinho de compras feito com php 8.3, usando recursos de OOP, Enum e gerenciamento de exceções.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/jhowzluk/shopping-cart-php)
 
 _
 
