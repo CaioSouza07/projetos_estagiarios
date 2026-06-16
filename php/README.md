@@ -7,19 +7,41 @@
 
 ## 👤 Ana
 
-### Exemplo 1
+### SEMANA 1
 
-Projeto exemplo para teste aqui é a descrição.
+Projeto de produtos tipo uma lojinha, ele define um array de 
+produtos com nome e preço, filtra os que custam mais de R$50, aplica 15% de 
+desconto em todos, e exibe tudo no navegador.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: https://github.com/Ana-Soares-Vicente/SEMANA1
 
 _
 
-### Exemplo 2
+### SEMANA 2
 
-Projeto exemplo para teste aqui é a descrição.
+Carrinho de compras, que permite adicionar/remover produtos, controlar estoque, 
+calcular totais e aplicar formas de pagamento (com possíveis descontos ou acré
+scimos)
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: https://github.com/Ana-Soares-Vicente/SEMANA2
+_
+
+### SEMANA 3
+
+Gerenciador de contatos, um crud completo (criar, 
+listar, atualizar, excluir), validação de dados, paginação e respostas JSON 
+padronizadas
+
+Link: https://github.com/Ana-Soares-Vicente/SEMANA3
+_
+
+### SEMANA 4
+
+API simples para gerenciar tarefas, permite criar, listar, atualizar status e remover tarefas,
+com suporte a prioridades (baixa, média, alta, urgente) e controle de status (pendente, em 
+progresso, concluída, cancelada)
+
+Link: https://github.com/Ana-Soares-Vicente/SEMANA4
 
 ---
 
