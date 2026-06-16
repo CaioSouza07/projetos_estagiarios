@@ -24,6 +24,7 @@ calcular totais e aplicar formas de pagamento (com possíveis descontos ou acré
 scimos)
 
 Link: https://github.com/Ana-Soares-Vicente/SEMANA2
+
 _
 
 ### SEMANA 3
@@ -33,6 +34,7 @@ listar, atualizar, excluir), validação de dados, paginação e respostas JSON
 padronizadas
 
 Link: https://github.com/Ana-Soares-Vicente/SEMANA3
+
 _
 
 ### SEMANA 4
