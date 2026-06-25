@@ -127,11 +127,19 @@ Link: [Repositório do Projeto](https://github.com/jhowzluk/shopping-cart-php)
 
 _
 
-### Exemplo 2
+### Contact Manager API
 
-Projeto exemplo para teste aqui é a descrição.
+API REST para gerenciamento de contatos, adicionando CRUD, validação de dados, paginação, e respostas JSON padronizadas.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/jhowzluk/contact-manager-api)
+
+_
+
+### Todo API
+
+API REST de gerenciamento de tasks estilo Kanban feita com PHP 8.3 + Symfony, e PHPUnit para testes unitários e de integração.
+
+Link: [Repositório do Projeto](https://github.com/jhowzluk/todo-api-symfony)
 
 ---
 
