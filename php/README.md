@@ -209,16 +209,18 @@ Link: [Repositório do Projeto](https://github.com/KaueDylon/curso-PhP-semana4)
 
 ## 👤 Luisa
 
-### Exemplo 1
+### Crud - Semana 3 da trilha
 
-Projeto exemplo para teste aqui é a descrição.
+Projeto de produtos tipo uma lojinha, ele define um array de 
+produtos com nome e preço, filtra os que custam mais de R$50, aplica 15% de 
+desconto em todos, e exibe tudo no navegador.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: https://github.com/luisacavagnollo/CRUD-PHP.git
 
 _
 
-### Exemplo 2
+### Projeto - Semana 4 da trilha
 
-Projeto exemplo para teste aqui é a descrição.
+Uma API REST de gerenciamento de tarefas (To-Do) feita em PHP puro. Permite criar, listar, atualizar e excluir tarefas, cadauma com título, descrição, status (pendente, em progresso, concluída, cancelada) e prioridade (baixa, média, alta, urgente). Usa MySQL como banco de dados e segue uma arquitetura em camadas (Repository → Service → Router).
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: https://github.com/luisacavagnollo/Projeto-final.git
