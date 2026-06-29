@@ -9,38 +9,38 @@
 
 ### SEMANA 1
 
-Projeto de produtos tipo uma lojinha, ele define um array de 
-produtos com nome e preço, filtra os que custam mais de R$50, aplica 15% de 
+Projeto de produtos tipo uma lojinha, ele define um array de
+produtos com nome e preço, filtra os que custam mais de R$50, aplica 15% de
 desconto em todos, e exibe tudo no navegador.
 
 Link: https://github.com/Ana-Soares-Vicente/SEMANA1
 
-_
+\_
 
 ### SEMANA 2
 
-Carrinho de compras, que permite adicionar/remover produtos, controlar estoque, 
+Carrinho de compras, que permite adicionar/remover produtos, controlar estoque,
 calcular totais e aplicar formas de pagamento (com possíveis descontos ou acré
 scimos)
 
 Link: https://github.com/Ana-Soares-Vicente/SEMANA2
 
-_
+\_
 
 ### SEMANA 3
 
-Gerenciador de contatos, um crud completo (criar, 
-listar, atualizar, excluir), validação de dados, paginação e respostas JSON 
+Gerenciador de contatos, um crud completo (criar,
+listar, atualizar, excluir), validação de dados, paginação e respostas JSON
 padronizadas
 
 Link: https://github.com/Ana-Soares-Vicente/SEMANA3
 
-_
+\_
 
 ### SEMANA 4
 
 API simples para gerenciar tarefas, permite criar, listar, atualizar status e remover tarefas,
-com suporte a prioridades (baixa, média, alta, urgente) e controle de status (pendente, em 
+com suporte a prioridades (baixa, média, alta, urgente) e controle de status (pendente, em
 progresso, concluída, cancelada)
 
 Link: https://github.com/Ana-Soares-Vicente/SEMANA4
@@ -55,7 +55,7 @@ Carrinho de compras usando php e orientação a objetos, simples com crud de pro
 
 Link: [Repositório do Projeto](https://github.com/CaioSouza07/carrinho-compras-php-pdo)
 
-_
+\_
 
 ### RecipeHub API
 
@@ -63,7 +63,7 @@ API Rest de receitas simples, apenas para CRUD de receitas, categorias e ingredi
 
 Link: [Repositório do Projeto](https://github.com/CaioSouza07/recipehub-api)
 
-_
+\_
 
 ### Contact API
 
@@ -81,7 +81,7 @@ Exercícios semanais de PHP feitos durante o curso. Aborda arrays, OOP, Enums, P
 
 Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/projeto-php-exercicios)
 
-_
+\_
 
 ### Exemplo 2
 
@@ -99,7 +99,7 @@ Sistema de carrinho de compras com: classe Produto (nome, preço, estoque), clas
 
 Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/CarrinhoCompras-Php.git)
 
-_
+\_
 
 ### Gerência de Contatos
 
@@ -107,7 +107,7 @@ API REST completa de gerenciamento de contatos: CRUD com PDO e prepared statemen
 
 Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/GerenciaContatos-PHP.git)
 
-_
+\_
 
 ### Gerência de Tarefas
 
@@ -125,7 +125,7 @@ Carrinho de compras feito com php 8.3, usando recursos de OOP, Enum e gerenciame
 
 Link: [Repositório do Projeto](https://github.com/jhowzluk/shopping-cart-php)
 
-_
+\_
 
 ### Contact Manager API
 
@@ -133,7 +133,7 @@ API REST para gerenciamento de contatos, adicionando CRUD, validação de dados,
 
 Link: [Repositório do Projeto](https://github.com/jhowzluk/contact-manager-api)
 
-_
+\_
 
 ### Todo API
 
@@ -145,19 +145,11 @@ Link: [Repositório do Projeto](https://github.com/jhowzluk/todo-api-symfony)
 
 ## 👤 João Périco
 
-### Exemplo 1
+### RPG Session Tools
 
-Projeto exemplo para teste aqui é a descrição.
+A progressive PHP 8.3 learning suite built as fantasy RPG session tools — from CLI dice rollers to a full REST API with PHPUnit.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
-
-_
-
-### Exemplo 2
-
-Projeto exemplo para teste aqui é a descrição.
-
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/jeperico/rpg-session-tools)
 
 ---
 
@@ -169,7 +161,7 @@ API RESTful desenvolvida em PHP puro, com arquitetura em camadas (Controller, Mo
 
 Link: [Repositório do Projeto](https://github.com/joaofsdev/trilha-php/tree/main/apiRest)
 
-_
+\_
 
 ### Projeto Final - Semana 4 Trilha PHP
 
@@ -179,7 +171,7 @@ Testes com PHPUnit, dependências via Composer e entrypoint em index.php.
 
 Link: [Repositório do Projeto](https://github.com/joaofsdev/trilha-php/tree/main/projetoFinal)
 
-_
+\_
 
 ### Garagem de Customização
 
@@ -197,7 +189,7 @@ API RESTful desenvolvida em PHP puro utilizando arquitetura em camadas (Controll
 
 Link: [Repositório do Projeto](https://github.com/KaueDylon/curso-PhP-semana3)
 
-_
+\_
 
 ### Lista Pessoal PhP
 
@@ -205,7 +197,7 @@ Projeto em CLI de gerenciamento de usuários desenvolvido em PHP utilizando prog
 
 Link: [Repositório do Projeto](https://github.com/KaueDylon/ListaPessoalPhP)
 
-_
+\_
 
 ### To-Do-It API - Semana 4 da Trilha
 
@@ -219,13 +211,13 @@ Link: [Repositório do Projeto](https://github.com/KaueDylon/curso-PhP-semana4)
 
 ### Crud - Semana 3 da trilha
 
-Projeto de produtos tipo uma lojinha, ele define um array de 
-produtos com nome e preço, filtra os que custam mais de R$50, aplica 15% de 
+Projeto de produtos tipo uma lojinha, ele define um array de
+produtos com nome e preço, filtra os que custam mais de R$50, aplica 15% de
 desconto em todos, e exibe tudo no navegador.
 
 Link: https://github.com/luisacavagnollo/CRUD-PHP.git
 
-_
+\_
 
 ### Projeto - Semana 4 da trilha
 
