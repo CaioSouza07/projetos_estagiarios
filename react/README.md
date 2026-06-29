@@ -8,14 +8,17 @@
 ## 👤 Ana
 
 ### Primeira semana da trilha de React
+
 Um formulário para adicionar, filtrar e remover itens da lista de compra. Possui um filtro com pendentes e concluídos. Feito com Vite + React, e css.
 Link de Acesso: https://github.com/Ana-Soares-Vicente/listaDeCompras
- 
+
 ### Segunda semana da trilha de React
+
 Uma aplicação para adicionar, pesquisar e remover notas pessoais. Possui a funcionalidade de marcar as notas como concluídas e um campo de busca! Feito com Vite + React e CSS.
 Link de Acesso: https://github.com/Ana-Soares-Vicente/notasPessoais
- 
+
 ### Terceira semana da trilha de React
+
 Aplicação de e-commerce de uma cafeteria, com carrinho de compras, autenticação de usuário e suporte a tema claro/escuro. Feito em vite + react, css e utiliza context api.
 Link de Acesso: https://github.com/Ana-Soares-Vicente/E-Commerce-Trilha
 
@@ -29,7 +32,7 @@ Gerenciador de tarefas estilo Kanban, inspirado no Trello, focado em organizaç�
 
 Link: [Repositório do Projeto](https://github.com/CaioSouza07/tasking-web)
 
-_
+\_
 
 ### Lista de Compras
 
@@ -37,7 +40,7 @@ Exercício 1 da trilha de React, lista de comprar simples, para organizar as com
 
 Link: [Repositório do Projeto](https://github.com/CaioSouza07/lista-compras-web)
 
-_
+\_
 
 ### Notas Pessoais
 
@@ -45,7 +48,7 @@ Exercício 2 da trilha, gerenciador de notas pessoais, para organizar lembretes 
 
 Link: [Repositório do Projeto](https://github.com/CaioSouza07/notas-pessoais-web)
 
-_
+\_
 
 ### E-commerce Básico
 
@@ -63,7 +66,7 @@ Aplicação para adicionar, remover e filtrar itens com contador de pendentes. D
 
 Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/projeto-lista-compras-react)
 
-_
+\_
 
 ### Projeto Notas Pessoais - Semana 2
 
@@ -71,7 +74,7 @@ Aplicação para criar, remover e buscar notas, consumindo uma API mock via JSON
 
 Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/projeto-notas)
 
-_
+\_
 
 ### Projeto Loja Virtual - Semana 3
 
@@ -79,7 +82,7 @@ Loja virtual com Context API (Auth, Cart, Theme), React Router, rotas protegidas
 
 Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/projeto-ecommerce-react)
 
-_
+\_
 
 ### Projeto Kanban - Semana 4
 
@@ -91,13 +94,13 @@ Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/projeto-kanba
 
 ## 👤 Guilherme
 
-###  Projeto 1 – Lista de Produtos
+### Projeto 1 – Lista de Produtos
 
 Lista de Produtos - Conta com Inserção, remoção de itens e dados numéricos da lista. Feito com React, Tailwind e Vite.
 
 Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/lista-produtos-react.git)
 
-_
+\_
 
 ### Projeto 2 – Aplicativo de Notas
 
@@ -121,7 +124,7 @@ Atividade da semana 1, lista de compras simples organizada em lista, utilizando 
 
 Link: [Repositório do Projeto](https://github.com/jhowzluk/shopping-list)
 
-_
+\_
 
 ### Personal Notes
 
@@ -129,7 +132,7 @@ Atividade da semana 2, aplicação de notas pessoais usando useReduce para CRUD,
 
 Link: [Repositório do Projeto](https://github.com/jhowzluk/personal-notes)
 
-_
+\_
 
 ### DevStore (E-commerce)
 
@@ -141,19 +144,11 @@ Link: [Repositório do Projeto](https://github.com/jhowzluk/dev-store)
 
 ## 👤 João Périco
 
-### Exemplo 1
+### Héstia | Couple Panel
 
-Projeto exemplo para teste aqui é a descrição.
+Authenticated dashboard for Hestia — a premium Brazilian wedding platform. Couples manage their RSVP guest list, gift registry, messages, wallet, and wedding settings through a mobile-first, visually polished interface.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
-
-_
-
-### Exemplo 2
-
-Projeto exemplo para teste aqui é a descrição.
-
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/hestia-weddings/couple-panel)
 
 ---
 
@@ -165,7 +160,7 @@ Projeto exemplo para teste aqui é a descrição.
 
 Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
 
-_
+\_
 
 ### Exemplo 2
 
@@ -183,7 +178,7 @@ Projeto desenvolvido com React (Vite) + TailwindCSS com o objetivo de praticar m
 
 Link: [Repositório do Projeto](https://github.com/KaueDylon/curso-react-semana1)
 
-_
+\_
 
 ### Gerenciador de Tarefas - Semana 2 da Trilha
 
@@ -191,7 +186,7 @@ Projeto desenvolvido com React (Vite) + TailwindCSS + JSON Server com o objetivo
 
 Link: [Repositório do Projeto](https://github.com/KaueDylon/curso-react-semana2)
 
-_
+\_
 
 ### E-Commerce (Compraki) - Semana 3 da Trilha
 
@@ -209,7 +204,7 @@ Projeto exemplo para teste aqui é a descrição.
 
 Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
 
-_
+\_
 
 ### Exemplo 2
 
