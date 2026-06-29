@@ -8,21 +8,23 @@
 ## 👤 Ana
 
 ### Gerenciamento de Tarefas
+
 Projeto sobre gerenciamento de tarefas onde utilizei POO, JDBC, e o h2 database.
 
 Link de acesso: https://github.com/Ana-Soares-Vicente/Tarefas-com-Banco-de-Dados.git
 
-_
- 
+\_
+
 ### Personagens
+
 Um CRUD feito em Java para cadastro de personagens de RPG. Utilizei POO, JDBC, e o h2 database // Similar ao gerenciador de tarefas.
 
 Link de acesso: https://github.com/Ana-Soares-Vicente/Personagens-com-Banco-de-Dados.git
 
-_
-
+\_
 
 ### Filmes
+
 API de Filmes (usuários, filmes e avaliações). Permite cadastrar usuários, adicionar filmes e registrar avaliações, calculando a média de notas por filme. Projeto feito com Spring Boot (JPA, H2, Maven).
 
 Link de Acesso: https://github.com/Ana-Soares-Vicente/P1_Filmes
@@ -37,7 +39,7 @@ Aplicação Java JDBC para gerenciamento de tarefas, conexão com PostgreSQL.
 
 Link: [Repositório do Projeto](https://github.com/CaioSouza07/task-manager-jdbc)
 
-_
+\_
 
 ### SmartRH
 
@@ -45,7 +47,7 @@ Aplicação Java JDBC para sistema de RH, cadastro de funcionários e cálculo d
 
 Link: [Repositório do Projeto](https://github.com/CaioSouza07/smart-rh-jdbc)
 
-_
+\_
 
 ### BookFlow
 
@@ -53,7 +55,7 @@ Aplicação Java com Hibernate puro, para sistema de biblioteca, cadastro de liv
 
 Link: [Repositório do Projeto](https://github.com/CaioSouza07/book-flow-jpa)
 
-_
+\_
 
 ### BioGreen API
 
@@ -71,7 +73,7 @@ Projeto de um RPG de turnos / sistema de combate criado usando os fundamentos de
 
 Link: [Repositório do Projeto](https://github.com/Gabrielfercosta/ProjetoRPG)
 
-_
+\_
 
 ### Exemplo 2
 
@@ -91,7 +93,7 @@ Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/Projeto_Show
 
 ### Projeto 2 – Fábrica de Veículos
 
-Sistema de pintura e montagem de veículos, com armazenamento em banco de dados (h2). 
+Sistema de pintura e montagem de veículos, com armazenamento em banco de dados (h2).
 
 Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/ProjetoProducaoFabrica.git)
 
@@ -103,7 +105,7 @@ Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/SistemaBolet
 
 ### Projeto 4 – Biblioteca API
 
-API de Biblioteca( autores, livros, clientes e  Sistema de Empréstimo). Organiza empréstimo por meio de status e possui verificação de dados inválidos/duplicados. Projeto feito com Spring Boot (JPA, Lombok, PostgreSQL).
+API de Biblioteca( autores, livros, clientes e Sistema de Empréstimo). Organiza empréstimo por meio de status e possui verificação de dados inválidos/duplicados. Projeto feito com Spring Boot (JPA, Lombok, PostgreSQL).
 
 Link: [Repositório do Projeto](https://github.com/GuilhermeFiedler/BibliotecaAPI.git)
 
@@ -117,7 +119,7 @@ Sistema de banco feito em Java para transferências entre carteiras e CRUD de us
 
 Link: [Repositório do Projeto](https://github.com/jhowzluk/PayMaster)
 
-_
+\_
 
 ### Garage Tracker API
 
@@ -129,19 +131,11 @@ Link: [Repositório do Projeto](https://github.com/jhowzluk/garagetracker-api)
 
 ## 👤 João Périco
 
-### Exemplo 1
+### Héstia | Core Api
 
-Projeto exemplo para teste aqui é a descrição.
+A Spring Boot REST API for managing wedding/event planning features including RSVP management, gift registry, and guest messaging.
 
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
-
-_
-
-### Exemplo 2
-
-Projeto exemplo para teste aqui é a descrição.
-
-Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
+Link: [Repositório do Projeto](https://github.com/hestia-weddings/core-api)
 
 ---
 
@@ -153,7 +147,7 @@ Aplicação backend desenvolvida em Spring Boot que implementa um sistema de e-c
 
 Link: [Repositório do Projeto](https://github.com/joaofsdev/loja-assincrona)
 
-_
+\_
 
 ### Exemplo 2
 
@@ -171,7 +165,7 @@ Projeto exemplo para teste aqui é a descrição.
 
 Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/workspace?page=taskCenter)
 
-_
+\_
 
 ### Exemplo 2
 
@@ -185,12 +179,12 @@ Link: [Repositório do Projeto](https://sesuite.softexpert.com/softexpert/worksp
 
 ### Biblioteca Digital
 
-Sistema de biblioteca digital desenvolvido em Java com Spring Boot, que 
-permite gerenciar livros (físicos e e-books), usuários e empréstimos via 
+Sistema de biblioteca digital desenvolvido em Java com Spring Boot, que
+permite gerenciar livros (físicos e e-books), usuários e empréstimos via
 interface de terminal. Inclui controle de disponibilidade, prazos de devolução e
 identificação de atrasos, com persistência em banco de dados usando JPA/
 Hibernate.
 
 Link: https://github.com/luisacavagnollo/biblioteca-digital.git
 
-_
+\_
